@@ -1,5 +1,7 @@
 # JOBATHON 2 CREDIT CARD LEAD PREDICTION
 
+#Approach to the problem
+
 **1.Business Problem:**
 
 As part of the competetion we are given a set of features about an user we have to predict whether that user is a potential lead for credit card or not.
