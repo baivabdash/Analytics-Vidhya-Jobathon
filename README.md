@@ -1,6 +1,6 @@
 # JOBATHON 2 CREDIT CARD LEAD PREDICTION
 
-#Approach to the problem
+**Approach to the problem**
 
 **1.Business Problem:**
 
